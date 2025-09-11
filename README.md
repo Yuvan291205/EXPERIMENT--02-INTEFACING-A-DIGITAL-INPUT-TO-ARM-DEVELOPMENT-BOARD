@@ -153,11 +153,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
  
- ![Uploading WhatsApp Image 2025-09-11 at 14.50.04_8ff1cebf.jpg…]()
-![Uploading WhatsApp Image 2025-09-11 at 14.50.09_c3e5c80d.jpg…]()
+![WhatsApp Image 2025-09-11 at 14 50 04_6f75d9e3](https://github.com/user-attachments/assets/1434c9d6-17e6-4055-93de-ad8e579d86c5)
+![WhatsApp Image 2025-09-11 at 14 50 09_edba8c96](https://github.com/user-attachments/assets/bafa18a5-5a2c-4426-adee-1a3b4d9b3992)
+
 
 ## layout of the circuit 
- ![Uploading image.png…]()
+ <img width="667" height="848" alt="image" src="https://github.com/user-attachments/assets/e2d7298e-f7f8-4e6f-8373-b5b6e99f45a2" />
+
 
  
 ## Result :
